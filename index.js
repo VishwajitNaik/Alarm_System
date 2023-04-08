@@ -1,5 +1,5 @@
 // Sound clip when the alarm starts
-var sound = new Audio("iphone_alarm.mp3")
+var sound = new Audio("Funny Minions Wake Up Alarm Ringtone  Minions  Download Link In Description  JBRupner.mp3")
 sound.loop = true;
 
 let arr = []
